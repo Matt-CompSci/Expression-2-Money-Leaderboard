@@ -1,4 +1,4 @@
-# Expression-2-Money-Leaderboard
+# Expression 2 Money Leaderboard
 
 This E2 generates a leaderboard of the players with the highest money on the server.
 This E2 requires TylerB's moneyRequest functions to get players money.
